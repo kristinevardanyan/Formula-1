@@ -1,4 +1,6 @@
 # Formula 1 Data Analysis and Visualization
+![Formula 1](![F1_logo_PNG1](https://github.com/kristinevardanyan/Formula-1/assets/160385762/70379e8a-e2e9-4de3-92f7-e093a567a53e)
+)
 
 ## Description
 Welcome to the Formula 1 Data Analysis and Visualization repository! Here, you'll find comprehensive data and code for exploring various aspects of Formula 1 racing, including driver performances, team dynamics, race outcomes, and more.
