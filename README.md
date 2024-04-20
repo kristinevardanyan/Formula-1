@@ -28,11 +28,11 @@ The dataset provided includes detailed information about Formula 1 races, driver
    - Conclusion: Despite examining a diverse range of temperature variations, no clear relationship between weather and performance emerged.
 
 5. **Top Ten Constructors of All Time**:
-   - Analysis to determine the top ten Formula 1 constructors based on accumulated points.
+   - Bar chart used to determine the top ten Formula 1 constructors based on accumulated points.
    - Conclusion: Ferrari emerged as the clear leader, followed closely by Mercedes and Red Bull, showcasing the enduring success of these teams in Formula 1 history.
 
 6. **Distribution of Formula One Drivers by Country**:
-   - Visualization highlighting the distribution of Formula One drivers by country.
+   - Tree map visualization highlighting the distribution of Formula One drivers by country.
    - Conclusion: The UK, Italy, and France stand out as primary sources of Formula One talent, consistently producing a significant number of top-tier drivers.
 
 ## Repository Structure
