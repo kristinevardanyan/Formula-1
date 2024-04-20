@@ -36,10 +36,9 @@ The dataset provided includes detailed information about Formula 1 races, driver
    - Conclusion: The UK, Italy, and France stand out as primary sources of Formula One talent, consistently producing a significant number of top-tier drivers.
 
 ## Repository Structure
-- `data/`: Contains the dataset (`drivers.csv`), ('results.csv'), (Final.xsls) used for analysis.
+- `data/`: Contains the dataset (`drivers.csv`), (`Final.xlsx`), (`constructor_resluts.csv`)(`races.csv`), (`results.csv`), (`temperature_points.xslx`) used for analysis.
 - `notebooks/`: Jupyter Notebooks with Python code for data cleaning, EDA, and analysis.
 - `visualizations/`: Visualizations generated from the analysis, saved as images or interactive plots.
 - `README.md`: Detailed information about the project, including dataset description, analysis methodology, and key findings.
-- `requirements.txt`: List of Python packages required to run the code.
 
 Feel free to explore the repository, run the code, and contribute to further analysis or enhancements. Your feedback and contributions are highly appreciated!
