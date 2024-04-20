@@ -1,5 +1,5 @@
 # Formula 1 Data Analysis and Visualization
-![Formula 1](https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png)
+<img src="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png" alt="Formula 1" width="400">
 
 ## Description
 Welcome to the Formula 1 Data Analysis and Visualization repository! Here, you'll find comprehensive data and code for exploring various aspects of Formula 1 racing, including driver performances, team dynamics, race outcomes, and more.
